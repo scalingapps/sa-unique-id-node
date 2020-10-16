@@ -26,7 +26,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/scalingapps/sa-unique-id.git"
+		"url": "git+https://github.com/scalingapps/sa-unique-id-node.git"
 	},
 	"keywords": [
 		"uniqueid"
@@ -34,7 +34,7 @@
 	"author": "Scalingapps",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/scalingapps/sa-unique-id/issues"
+		"url": "https://github.com/scalingapps/sa-unique-id-node/issues"
 	},
-	"homepage": "https://github.com/scalingapps/sa-unique-id#readme"
+	"homepage": "https://github.com/scalingapps/sa-unique-id-node#readme"
 }
