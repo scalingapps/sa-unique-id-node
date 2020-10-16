@@ -1,4 +1,4 @@
-const { SaUniqueId } = require('../../lib/SaUniqueId.node.js')
+const { SaUniqueId } = require('../../lib/SaUniqueId.js')
 
 console.log('SaUniqueId.id() sample output:');
 console.log('id', SaUniqueId.id())
