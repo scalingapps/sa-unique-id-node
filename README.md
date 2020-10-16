@@ -1,5 +1,6 @@
-# sa-unique-id
+# sa-unique-id-node
 A simple unique id generator that produce a unique id that is 23 chars/bytes long
+This version is for Node.js. For the browser, see: sa-unique-id
 
 # code base
 TypeScript
@@ -16,13 +17,6 @@ console.log('unique id', SaUniqueId.id());
 console.log('unique id', SaUniqueId.id());
 console.log('unique id', SaUniqueId.id());
 console.log('unique id', SaUniqueId.id());
-```
-
-# example using vanilla js (browser)
-```
-const SaUniqueId = Sa.SaUniqueId;
-console.log('SaUniqueId.id() sample output:');
-console.log('id', SaUniqueId.id());
 ```
 
 # example using TypeScript
